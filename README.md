@@ -112,3 +112,22 @@ Advanced Embeddings: Experiment with pre-trained embeddings or dimensionality ad
 
 ## Conclusion & Future Work
 The project successfully evaluated multiple NLP models for multi-class text classification. The findings highlight the strengths of RNNs with Bidirectional LSTMs in sequence labeling and suggest avenues for improving model performance through advanced preprocessing and hyperparameter optimization.
+
+
+## Getting Started
+Prerequisites
+Python 3.x
+
+Libraries: TensorFlow, Keras, scikit-learn, Gensim, Matplotlib, Seaborn
+
+How to Run the Project
+
+Clone the Repository: Download the project files.
+
+Install Dependencies: Run pip install -r requirements.txt.
+
+Prepare Data: Load and preprocess the dataset (PLOD-CW).
+
+Run Experiments: Execute model scripts in Jupyter Notebooks for different experiments.
+
+Evaluate Models: Use provided evaluation scripts to assess model performance.
